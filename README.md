@@ -20,4 +20,4 @@ Rough Break Down of Tasks
 
 Search and find relevant data - Our Objective will be to see which States had the most impact on their Housing Market to Covid. We will be pulling data based on current and past Market Values.  Covid Stats on the States that had the most cases.  And the Unemployment rates in those States.
 Prepare for the data analysis - After we pull and decide which Data best correlates with our inquiry. We can start exploring, cleaning and preparing our Data. This will involve getting that Stats on Covid Cases during the Pandemic.  Pulling the unemployment rates for each State. Then from there we can compare those factors to the Housing Market.
-Write or Report -  From here we should have enough Data to Write a report and create Models that express Economic Impact that Covid did in fact have on the housing market. 
+  From here we should have enough Data to Write a report and create Models that express Economic Impact that Covid did in fact have on the housing market. 
