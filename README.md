@@ -18,9 +18,14 @@ I did reference this pdf for information on the labor Market metrics
 https://sgp.fas.org/crs/misc/R46554.pdf
 Rough Break Down of Tasks 
 Search and find relevant data
+
 Our Objective will be to see which States had the most impact on their Housing Market do to Covid. We will be pulling data based current and past Market Values.  Covid Stats on the States that had the most cases.  And the Unemployment rates in those States. 
 Prepare for data analysis
+
+
  After we pull and decided which Data best correlates with our inquiry. We can start exploring, cleaning and preparing our Data. This will involve getting that Stats on Covid Cases during the Pandemic.  Pulling the unemployment rates for each State. Then from there we can compare those factors to the Housing Market. 
+ 
+ 
 Monitor/analyze/manage models
  From here we should have enough Data to Write a report and create Models that express Economic Impact that Covid did in fact have on the housing market. 
 
