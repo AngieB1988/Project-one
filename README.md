@@ -16,6 +16,8 @@ We will be pulling Data from: Sites Will listed in our Git Hub Repo.
 
 I did reference this pdf for information on the labor Market metrics 
 https://sgp.fas.org/crs/misc/R46554.pdf
+
+
 Rough Break Down of Tasks 
 Search and find relevant data
 
