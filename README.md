@@ -1,6 +1,5 @@
 # Project-one
 How Covid and Unemployment rates had an Economic Impact on the housing market in the US. Which States residential housing market was most effected by the Pandemic. 
--Possibly Consider us changing it to/ the top Major Cities in the us? – or like top 5? 
 
 
 Team Members 
