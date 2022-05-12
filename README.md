@@ -2,19 +2,17 @@
 #**** Project-one
 2
 Determining the economic impact of the COVID epidemic in 3 major economic centers in the US.
-3
-​
-4
-​
-5
-Team Members 
-6
+
+
+
+
+
+
 [Anthony Palacios , James Lee , Peter Lee, Angie Bolden]
-7
-​
-8
-​
-9
+
+
+
+
 Project goal is to determine whether or not the COVID epidemic has caused permanent or long term effects onto the local economies of major economic locations in the US. We will focus on 3 major states and a corresponding city in each with a robust economy in different regions of the US; Los Angeles CA, New York New York, and Dallis Texas. 
 A generalized view of the local economic strength of each state and each city will be developed based on housing availability. This data will then be used in comparison to data of Covid infection and positive cases of each corresponding city and state. 
 
@@ -30,19 +28,18 @@ Sources of the Datasets to be Used:
 	https://www.census.gov/library/stories/2021/10/zillow-and-census-bureau-data-show-pandemics-impact-on-housing-market.html
 
 
-11
-​
-12
-​
-13
+
+
+
+
 I did reference this pdf for information:
-14
+
  https://sgp.fas.org/crs/misc/R46554.pdf
-15
-​
-16
-​
-17
+
+  
+  
+  
+  
 Rough Break Down of Tasks 
 18
 Search and find relevant data - Our Objective will be to see which of these cities had the most impact on their Housing Market to Covid. We will be pulling data based on current and past Market Values.  Covid Stats on the States that had the most cases.  And the Unemployment rates in those States.
