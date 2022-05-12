@@ -1,36 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@james0lee 
-AngieB1988
-/
-Project-one
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Project-one
-/
-README.md
-in
-main
- 
 
-Spaces
-
-1
-
-Soft wrap
-1
 #**** Project-one
 2
 Determining the economic impact of the COVID epidemic in 3 major economic centers in the US.
