@@ -7,7 +7,6 @@ https://blog.data.nasdaq.com/api-for-housing-data
 
 Economic sources:
 
-https://www.census.gov/library/stories/2021/10/zillow-and-census-bureau-data-show-pandemics-impact-on-housing-market.html
 https://www.bls.gov/web/empsit.supp.toc.htm
 https://2009-2017.state.gov/m/fsi/tc/79700.htm
 https://www.cbpp.org/research/poverty-and-inequality/tracking-the-covid-19-economys-effects-on-food-housing-and#:~:text=The%20unemployment%20rate%20jumped%20in,2021%20than%20in%20February%202020
