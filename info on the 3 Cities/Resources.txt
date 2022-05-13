@@ -1,0 +1,12 @@
+https://data.ny.gov/browse/select_dataset?limitTo=blob&tags=property
+https://data.cityofnewyork.us/
+
+https://alfred.stlouisfed.org/
+https://www.fhfa.gov/
+
+https://www1.nyc.gov/
+https://www.kaggle.com/datasets/camnugent/california-housing-prices
+https://www.car.org/marketdata/data/housingdata
+http://www.laalmanac.com/economy/ec37.php
+https://www.recenter.tamu.edu/data/housing-activity/#!/activity/State/Texas
+https://data.ca.gov/

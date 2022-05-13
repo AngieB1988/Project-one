@@ -1,0 +1,30 @@
+Field,Value
+Title,COVID-19 Variant Data
+URL,covid-19-variant-data
+Description,"The California Department of Public Health (CDPH) is identifying ​the prevalence of circulating SARS-CoV-2 variants by analyzing ​CDPH Genomic Surveillance Data and ​CalREDIE, CDPH's communicable disease reporting and surveillance system. Viruses mutate into new strains or variants over time. Some variants emerge and then disappear. Other variants become common and circulate for a long time. Several specialized laboratories statewide sequence the genomes of a fraction of all positive COVID-19 tests to determine which variants are circulating. Sequencing and reporting of variant results takes several days after a test is identified as a positive for COVID-19. Not all ​viruses from positive COVID-19 tests are ​sequenced. Knowing what variants are circulating in California informs public health and clinical action.
+
+Note: There is a natural reporting lag in these data due to the time commitment to complete whole genome sequencing; therefore, a 14 day lag is applied to these datasets to allow for data completeness. Please note that more recent data should be used with caution.
+
+For more information, please see: https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-Variants.aspx"
+Tags,"california department of public health,covid,covid-19,covid19,genetic,sequencing,strains,variants"
+License,
+Topic,
+Organization,California Department of Public Health
+Public Access Level,Public
+Rights,No restrictions on public use
+Program Contact Name,"COVID-19 Response Data, Informatics, Surveillance, Clinical and Outbreaks (DISCO) Team"
+Program Contact Email,opendata@cdph.ca.gov
+Author,
+Homepage URL,
+Frequency,Weekly
+Temporal Coverage,2021-present
+Granularity,
+Geographic Coverage Location,
+Spatial,
+Data Standard,
+Language,
+Source Link,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-Variants.aspx
+Additional Information,
+Related Resources,
+Secondary Sources,
+Citation,

@@ -1,0 +1,34 @@
+Field,Value
+Title,COVID-19 Time-Series Metrics by County and State
+URL,covid-19-time-series-metrics-by-county-and-state
+Description,"Data is from the California COVID-19 State Dashboard at https://covid19.ca.gov/state-dashboard/
+
+__NOTE:__  Data is being updated on Tuesdays and Fridays.
+
+Data on cases, deaths, and testing is not reported on weekends or state holidays. This data is reported on the first day following the weekend or holiday. All metrics include people in state and federal prisons, US Immigration and Customs Enforcement facilities, US Marshal detention facilities, and Department of State Hospitals facilities. Members of California's tribal communities are also included.
+
+__NOTE:__ The ""Total Tests"" and ""Positive Tests"" columns show totals based on the collection date. There is a lag between when a specimen is collected and when it is reported in this dataset. As a result, the most recent dates on the table will temporarily show NONE in the ""Total Tests"" and ""Positive Tests"" columns. This should not be interpreted as no tests being conducted on these dates. Instead, these values will be updated with the number of tests conducted as data is received.
+
+When comparing to the state dashboard, the dashboard numbers will correspond to the ""Reported"" columns in this table. Also note that the dashboard displays data that is one day prior to today's date."
+Tags,"age,california department of public health,cases,covid,covid-19,covid19,deaths,demographics,ethnicity,gender,race,testing"
+License,
+Topic,
+Organization,California Department of Public Health
+Public Access Level,Public
+Rights,No restrictions on public use
+Program Contact Name,"COVID-19 Response Data, Informatics, Surveillance, Clinical and Outbreaks (DISCO) Team"
+Program Contact Email,opendata@cdph.ca.gov
+Author,
+Homepage URL,
+Frequency,Weekly
+Temporal Coverage,2020-present
+Granularity,
+Geographic Coverage Location,
+Spatial,
+Data Standard,
+Language,
+Source Link,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx
+Additional Information,
+Related Resources,
+Secondary Sources,
+Citation,
