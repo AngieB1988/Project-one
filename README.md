@@ -1,15 +1,13 @@
-
-#**** Project-one
-2
-Determining the economic impact of the COVID epidemic in 3 major economic centers in the US.
-
-
+# Project-one
+How Covid had an Economic Impact on the housing market in Los Angeles, New York, Austin . Which one of the cities residential housing market was most effected by the Pandemic. 
 
 
 
 
 [Anthony Palacios , James Lee , Peter Lee, Angie Bolden]
 
+
+We will be pulling Data from: Sites Will be Referenced in our Github Repo.
 
 
 
@@ -31,7 +29,6 @@ Sources of the Datasets to be Used:
 
 
 
-
 I did reference this pdf for information:
 
  https://sgp.fas.org/crs/misc/R46554.pdf
@@ -41,9 +38,7 @@ I did reference this pdf for information:
   
   
 Rough Break Down of Tasks 
-18
-Search and find relevant data - Our Objective will be to see which of these cities had the most impact on their Housing Market to Covid. We will be pulling data based on current and past Market Values.  Covid Stats on the States that had the most cases.  And the Unemployment rates in those States.
-19
+
 Prepare for the data analysis - After we pull and decide which Data best correlates with our inquiry. We can start exploring, cleaning and preparing our Data. This will involve getting that Stats on Covid Cases during the Pandemic.  Pulling the unemployment rates for each State. Then from there we can compare those factors to the Housing Market. From here we should have enough Data to Write a report and create Models that express Economic Impact that Covid did in fact have on the housing market. 
 20
 ​
