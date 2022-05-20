@@ -15,7 +15,7 @@ Project goal is to determine whether or not the COVID epidemic has caused perman
 A generalized view of the local economic strength of each state and each city will be developed based on housing availability. This data will then be used in comparison to data of Covid infection and positive cases of each corresponding city and state. 
 
 Questions:
-1: Has the long-term purchasing ability of Americans been affected by the severity of the localized pandemic environment. 
+1: How has the long-term purchasing ability of Americans been affected by the severity of the localized pandemic environment. 
 2: Is there a correlation of Covid severity in the state and Home pricing?
 3: Due to Covid related medical costs; has there been an increase of housing availability or has there been a decrease?
 
