@@ -5,7 +5,7 @@ The Project goal is to determine whether or not the COVID epidemic has caused pe
 
 #### **Team Members** 
 
-[Anthony Palacios , James Lee , Peter Lee, Angie Bolden]
+[Anthony Palacios , James Lee , Peter Flores, Angie Bolden]
 
 #### **Reasoning**
 The project will focus on data from the beginning of the declared pandemic; March 15,2020 to March 2022.
