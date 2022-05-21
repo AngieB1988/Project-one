@@ -1,46 +1,45 @@
 # Project-one
-How Covid had an Economic Impact on the housing market in Los Angeles, New York, Austin . Which one of the cities residential housing market was most effected by the Pandemic. 
 
+### **Goal** 
+The Project goal is to determine whether or not the COVID epidemic has caused permanent or long-term effects on the US. As the availability and sale of homes are used as a base benchmark for economic stability and/or growth we will be comparing housing price data with data pertaining to positive Covid cases and deaths. 
 
-
+#### **Team Members** 
 
 [Anthony Palacios , James Lee , Peter Lee, Angie Bolden]
 
+#### **Reasoning**
+The project will focus on data from the beginning of the declared pandemic; March 15,2020 to March 2022.
 
-We will be pulling Data from: Sites Will be Referenced in our Github Repo.
+To develop this analysis the team used the sales price of homes 3 major counties in 3 different states located in seperate regions of the US; Los Angeles County CA, New York County New York, and Travis County Texas and records of COVID cases and deaths of each county respectively. The prices of homes were determined to be a reliable economic indicator as home sales are reliable signs of the buying power of an average American family household. With the pandemic resulted in almost all business models to freeze operations during the lockdown, their data would be considered irregular and unusable for our purpose.  
 
+### Questions:
 
+1. Has the long-term purchasing ability of Americans been affected by the severity of the localized pandemic environment of each county? 
+2. In what way has the prices of homes been affected and what may that indicate for the economy?
+3.	Are there similar patterns in the data for Covid cases/deaths and Housing sales?
 
-Project goal is to determine whether or not the COVID epidemic has caused permanent or long term effects onto the local economies of major economic locations in the US. We will focus on 3 major states and a corresponding city in each with a robust economy in different regions of the US; Los Angeles CA, New York New York, and Dallis Texas. 
-A generalized view of the local economic strength of each state and each city will be developed based on housing availability. This data will then be used in comparison to data of Covid infection and positive cases of each corresponding city and state. 
+### Expectations:
+Due to the pandemic causing many businesses to halt in-door/ in-person operations a large number of businesses had to halt operations. These events caused many individuals to find themselves either unemployed or on furlough resulting in the loss of income. With the loss of income and due to the virus’ high infection rates despite vaccine efforts, it was expected that many family households would view the future to be unpredictable and thus act to conserve what funds they may have. This expectation should be reflected in the comparison data; as cases and deaths increase in a county and city, the fear of infection and local lockdown would affect the consumer’s faith in their income and savings resulting in fewer families spending their funds on a new home. 
 
-Questions:
-1: How has the long-term purchasing ability of Americans been affected by the severity of the localized pandemic environment. 
-2: Is there a correlation of Covid severity in the state and Home pricing?
-3: Due to Covid related medical costs; has there been an increase of housing availability or has there been a decrease?
+#### Sources of the Datasets to be Used  
+[Covid cases in the US](Covidactnow.org)
 
-10
-Sources of the Datasets to be Used:  
-	Covidactnow.org
-	data.cdc.gov
-	https://www.census.gov/library/stories/2021/10/zillow-and-census-bureau-data-show-pandemics-impact-on-housing-market.html
+[Average Housing Prices](Zillow.com)
 
+[API Source]
 
+#### Data Results:
+COVID: Starting from March 2020 there has been a steady increase of deaths within each county but having one major sudden spike of cases occur at different times. This shows that the virus has a steady fatality rate despite vaccine and lockdown efforts and that the number of cases are high in each month as the pandemic continues. 
 
+Houses: Data since January 2020 shows that the average of home prices have steadily been increasing little to no signs of slowing for Austin and Los Angeles, with New York being the one exception. In the case of New York, there was a sharp decrease in house prices from April 2021 to October 2021. 
 
+#### Analysis
+In the three major counties: Austin, Los Angeles and New York, the prices of homes have continued to increase during the pandemic despite increasing infections and deaths. On the contrary to expectations, prices of homes continued to increase as deaths and cases increased. Closer look at the data shows that instead of having an inverse relationship as expected; Housing prices and covid cases/deaths had a parallel relationship. When cases began to rapidly increase on June 2020 and December 2021, the prices of homes also began to increase. This resulted in both data graphs to have a positive growth with similar starting points of increase. 
 
-I did reference this pdf for information:
+#### Results
+The expected results of the housing data having an inverse relationship to covid deaths/cases data have been shown to be incorrect. Where the expected data pattern was to see housing prices decrease whenever cases/deaths increase, instead the data shown to be a positive correlation between sharp increases of cases and deaths to the prices of homes resulting in a steady increase in home prices from 2020 to 2022. 
 
- https://sgp.fas.org/crs/misc/R46554.pdf
+#### Conclusion 
+The data that has been gathered have shown to contradict the project expectations and have shown that during the pandemic era, the prices of homes have consistently increased as Covid cases and Covid deaths also increased in the same counties. While the data does not provide an indepth answer to the health of many aspects of the economy, it does show the housing market have grown; indicating that the overall US economy is not experiencing a long term economic depression yet. 
 
-  
-  
-  
-  
-Rough Break Down of Tasks 
-
-Prepare for the data analysis - After we pull and decide which Data best correlates with our inquiry. We can start exploring, cleaning and preparing our Data. This will involve getting that Stats on Covid Cases during the Pandemic.  Pulling the unemployment rates for each State. Then from there we can compare those factors to the Housing Market. From here we should have enough Data to Write a report and create Models that express Economic Impact that Covid did in fact have on the housing market. 
-20
-​
-21 
-
+A possible theory for the resulting data would be that when cases increased, the counties resumed lockdowns in the cities and incentivized young families to move out of urban centers and purchase homes where they will have more space. Another possible theory is the lockdowns led to many individuals either finding or have their current work spaces transition to remote work; leading these individuals to purchase new homes that will accommodate the new required work space. 
