@@ -26,7 +26,7 @@ Due to the pandemic causing many businesses to halt in-door/ in-person operation
 
 [Average Housing Prices](Zillow.com)
 
-[API Source]
+[API Source](covidactnow.org)
 
 #### Data Results:
 COVID: Starting from March 2020 there has been a steady increase of deaths within each county but having one major sudden spike of cases occur at different times. This shows that the virus has a steady fatality rate despite vaccine and lockdown efforts and that the number of cases are high in each month as the pandemic continues. 
